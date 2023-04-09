@@ -46,7 +46,7 @@ PiscesClothing Online Shop Website live at [this link](https://davidquindoza.git
 ![Image 3](https://i.ibb.co/sKtLVVm/Pisces.png)
 
 Simple Pokedex App made in Android Studio
- {% youtube "https://youtu.be/xwCH2GPgb1I" %}
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCH2GPgb1I" frameborder="0" allowfullscreen></iframe>
 
 Screenshots of Pokedex List
 ![Image 4](https://i.ibb.co/kymvvkj/Pokedex.png)
