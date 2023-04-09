@@ -46,6 +46,7 @@ PiscesClothing Online Shop Website live at [this link](https://davidquindoza.git
 ![Image 3](https://i.ibb.co/sKtLVVm/Pisces.png)
 
 Simple Pokedex App made in Android Studio
+-  Demo Video:
  <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCH2GPgb1I" frameborder="0" allowfullscreen></iframe>
 
 Screenshots of Pokedex List
@@ -55,3 +56,5 @@ Screenshots of Pokedex Entry
 ![Image 5](https://i.ibb.co/FX6nJT6/Pokedex-2.png)
 
 Data Science Project
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/dataScienceproject.pdf" width="600" height="600" type="application/pdf">
+</object>
