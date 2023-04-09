@@ -37,7 +37,20 @@ Pokemon Tours! Website live at [this link](https://davidquindoza.github.io/pokem
 - A static HTML and CSS Website
 ![Image 1](https://i.ibb.co/7RkHpX7/Pokemon.png)
 
-NatGeo Egyt Tours! Website Website live at [this link](https://davidquindoza.github.io/natgeo_expeditions/index.html)
+NatGeo Egpyt Tours! Website live at [this link](https://davidquindoza.github.io/natgeo_expeditions/index.html)
 - A static HTML and CSS Website with single line of JS
 ![Image 2](https://i.ibb.co/BzmtC5G/Egypt.png)
+
+PiscesClothing Online Shop Website live at [this link](https://davidquindoza.github.io/piscesclothing-/index.html)
+- Simple Store Catalog Site
+![Image 3](https://i.ibb.co/sKtLVVm/Pisces.png)
+
+Simple Pokedex App made in Android Studio
+ {% youtube "https://youtu.be/xwCH2GPgb1I" %}
+
+Screenshots of Pokedex List
+![Image 4](https://i.ibb.co/kymvvkj/Pokedex.png)
+
+Screenshots of Pokedex Entry
+![Image 5](https://i.ibb.co/FX6nJT6/Pokedex-2.png)
 
