@@ -29,7 +29,6 @@ Moving on to the technical skills from the course were the opportunity to learn 
 - Java 
 - Android Studio
 - Python and Jupyter Notebook
-- R for Statistics
 - Figma (UI/UX)
 
 ### Projects during College
