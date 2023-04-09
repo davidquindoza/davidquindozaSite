@@ -54,3 +54,4 @@ Screenshots of Pokedex List
 Screenshots of Pokedex Entry
 ![Image 5](https://i.ibb.co/FX6nJT6/Pokedex-2.png)
 
+Data Science Project
