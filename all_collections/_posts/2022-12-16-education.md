@@ -22,7 +22,7 @@ I think the same process can be applied with Quality Assurance in testing the pr
 
 Moving on to the technical skills from the course were the opportunity to learn and familiarise the following
 
-### Familiar with:
+## Technical Familiarities:
 ---
 - HTML/CSS and TypeScript using Angular
 - Jekyll
@@ -31,20 +31,20 @@ Moving on to the technical skills from the course were the opportunity to learn 
 - Python and Jupyter Notebook
 - Figma (UI/UX)
 
-### Projects during College
-Pokemon Tours! Website live at [this link](https://davidquindoza.github.io/pokemontours/)
+## Projects during College:
+### Pokemon Tours! Website live at [this link](https://davidquindoza.github.io/pokemontours/)
 - A static HTML and CSS Website
 ![Image 1](https://i.ibb.co/7RkHpX7/Pokemon.png)
 
-NatGeo Egpyt Tours! Website live at [this link](https://davidquindoza.github.io/natgeo_expeditions/index.html)
+### NatGeo Egpyt Tours! Website live at [this link](https://davidquindoza.github.io/natgeo_expeditions/index.html)
 - A static HTML and CSS Website with single line of JS
 ![Image 2](https://i.ibb.co/BzmtC5G/Egypt.png)
 
-PiscesClothing Online Shop Website live at [this link](https://davidquindoza.github.io/piscesclothing-/index.html)
+### PiscesClothing Online Shop Website live at [this link](https://davidquindoza.github.io/piscesclothing-/index.html)
 - Simple Store Catalog Site
 ![Image 3](https://i.ibb.co/sKtLVVm/Pisces.png)
 
-Simple Pokedex App made in Android Studio
+### Simple Pokedex App made in Android Studio
 -  Demo Video:
  <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCH2GPgb1I" frameborder="0" allowfullscreen></iframe>
 
@@ -54,6 +54,15 @@ Screenshots of Pokedex List
 Screenshots of Pokedex Entry
 ![Image 5](https://i.ibb.co/FX6nJT6/Pokedex-2.png)
 
-Data Science Project
+### Data Science Project
 <object data="{{ site.url }}{{ site.baseurl }}/pdfs/dataScienceproject.pdf" width="600" height="600" type="application/pdf">
 </object>
+
+### T.E.R.M. (Ticketing Expert Repair Maintenance) System for Small and Midsized Auto Shop Businesses
+
+![image](https://i.ibb.co/bKfw6Ly/TERM.png)
+
+The Term System is prototype of an Auto Shop System with an online ticketing with scheduling feature. Creates a ticket from customer bookings, that is regularly updated with the car's progress in the auto shop. It also shows lead/idle time in between mechanics switching of work. Working demo at [this link](https://term-system.web.app/).
+
+
+
