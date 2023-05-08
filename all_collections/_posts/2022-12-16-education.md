@@ -58,6 +58,18 @@ Screenshots of Pokedex Entry
 <object data="{{ site.url }}{{ site.baseurl }}/pdfs/dataScienceproject.pdf" width="600" height="600" type="application/pdf">
 </object>
 
+### ASEAN Data Explorers 2020 Finals Entry
+Used SAP HANA Data Analystics to visualize data from filetered/cleaned csvs/datasets regarding\
+
+- Population of Slums and Urban Areas until 2050
+- Urbanization from 2000 - 2018
+- Vehicle registration per Popultion
+- Traffic Congestion
+- Plastic Waste
+
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/aseandata.pdf" width="900" height="540" type="application/pdf">
+</object>
+
 ### T.E.R.M. (Ticketing Expert Repair Maintenance) System for Small and Midsized Auto Shop Businesses
 
 ![image](https://i.ibb.co/bKfw6Ly/TERM.png)
