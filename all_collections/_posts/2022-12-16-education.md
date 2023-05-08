@@ -67,7 +67,7 @@ Used SAP HANA Data Analystics to visualize data from filetered/cleaned csvs/data
 - Traffic Congestion
 - Plastic Waste
 
-<object data="{{ site.url }}{{ site.baseurl }}/pdfs/aseandata.pdf" width="900" height="540" type="application/pdf">
+<object data="{{ site.url }}{{ site.baseurl }}/pdfs/aseandata.pdf" width="1200" height="640" type="application/pdf">
 </object>
 
 ### T.E.R.M. (Ticketing Expert Repair Maintenance) System for Small and Midsized Auto Shop Businesses
