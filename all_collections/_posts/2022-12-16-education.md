@@ -16,7 +16,7 @@ As an information systems graduate, I have gained valuable experience in analyzi
 - Design Thinking 
 - Process Chart Analysis (VA/NVMA/NVA Analysis)
  
- ### Skills:
+### Skills:
 
 - HTML/CSS
 - Jekyll
@@ -31,11 +31,9 @@ As an aspiring data analyst, my proficiency in these technical skills allows me 
 
 In addition, I also had notable experience in Data Analytics as participating and getting into the National Finals of the [2020 ASEAN Data Explorers Competition](#asean-data-explorers-2020-finals-entry). 
 
-
+---
 
 ## Below are a list of some projects in my course:
-
----
 
 ### Pokemon Tours! Website live at [this link](https://davidquindoza.github.io/pokemontours/)
 - A static HTML and CSS Website
