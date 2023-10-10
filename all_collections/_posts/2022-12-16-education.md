@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Mapúa University - B.S Information Systems
+title: Educational Experience 🎒
 date: 2022-12-16
 categories: ["Quality Improvement", "SLDC", "Data Analytics", "Web Development", "Anrdoid Studio"]
 ---
 
-As an information systems graduate, I have gained valuable experience in analyzing complex business problems, identifying gaps and requirements, and implementing solutions through websites, mobile apps and data driven storyboards. Through these tools and methods, I have developed a strong foundation in problem-solving and critical thinking. 
+I have my background as a recent information systems graduate, I have gained valuable experience in analyzing complex business problems, identifying gaps and requirements, and implementing solutions/recommendations through websites and data driven storyboards. Through these tools and methods, I have developed a strong foundation in problem-solving and analytical thinking.
 
-#### Tools and Methods used in Case Studies:
+
+### Tools for understanding Business Problems:
 
 - Process Maps w/ Pain points
 - Why-Why Diagrams
@@ -33,7 +34,7 @@ In addition, I also had notable experience in Data Analytics as participating an
 
 ---
 
-## Below are a list of some projects in my course:
+## Below are a list of some of my projects in my course:
 
 ### Pokemon Tours! Website live at [this link](https://davidquindoza.github.io/pokemontours/)
 - A static HTML and CSS Website
@@ -63,7 +64,7 @@ Our first Data Science Project utilized the videogamesale dataset from Kaggle an
 - Data Gathering
 - Data Cleansing
 - Exploratory Data Analysis
-- Data Modelling 
+- Data Modeling 
 - Data Evaluation
 
 ### Problem: "How can Game Companies maximize their sales?"
