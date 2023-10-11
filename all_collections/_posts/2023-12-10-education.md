@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Education 🌱
-date: 2022-12-16
-categories: ["Quality Improvement", "SLDC", "Data Analytics", "Web Development", "Anrdoid Studio"]
+date: 2023-10-10
+categories: ["Exploratory Data Analysis", "Machine Learning", "Tableau", "Web Development","SLDC", "Quality Improvement "Anrdoid Studio"]
 ---
 
 # Google Advanced Analytics Professional Certificate (June - October | 2023)
@@ -38,6 +38,8 @@ Some of the models taught in this part were Regression Models, K-Means, Random F
 The final section emphasized model evaluation and the importance of iterative practices in planning, exploratory data analysis, and model development. It was important to split our data into training, validation, and test data(unseen data so we know how the model works in real world scenario). 
 
 You can find most of the applications of my learning through the capstones and the projects section of my website. 
+
+---
 
 # Mapua University (2019 - 2023)
 
