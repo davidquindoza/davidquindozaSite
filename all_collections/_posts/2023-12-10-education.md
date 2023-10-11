@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Education 🌱
-date: 2023-10-10
-categories: ["Exploratory Data Analysis", "Machine Learning", "Tableau", "Web Development","SLDC", "Quality Improvement "Anrdoid Studio"]
+date: 2023-10-9
+categories: ["Exploratory Data Analysis", "Machine Learning", "Tableau", "Web Development","SLDC", "Quality Improvement", "Anrdoid Studio"]
 ---
 
 # Google Advanced Analytics Professional Certificate (June - October | 2023)
