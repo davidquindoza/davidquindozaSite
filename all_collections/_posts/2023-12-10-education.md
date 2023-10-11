@@ -1,9 +1,45 @@
 ---
 layout: post
-title: Educational Experience 🎒
+title: Education 🌱
 date: 2022-12-16
 categories: ["Quality Improvement", "SLDC", "Data Analytics", "Web Development", "Anrdoid Studio"]
 ---
+
+# Google Advanced Analytics Professional Certificate (June - October | 2023)
+
+![alt](https://i.ibb.co/BGLtbkB/badge.png)
+
+*Recently completed the Google Data Analytics Professional Certificate, composed of 2 parts:* 
+
+- **Data Analytics Professional Certificate** 
+
+This was the introductory course to Data Analytics, giving me a solid foundation of how Data Professional use their skills in identifying problems, exploring the problem with data and creating impact to the organizations by providing data driven recommendations. 
+
+Some of the notable skills learned here was the usage of SQL with Bigquery to pull in data to Google Sheets. Google Sheets was then used to explore, manipulate, and tidy up the data. 
+
+Tableau was also introduced as means of data storytelling through compelling data visualizations and dashboards.
+
+The last course introduced us into R programming language with Palmer Penguins dataset, I proceeded to continue the next part of the course, to learn more on how Python libraries like pandas,matplotlib, seaborn were used in Jupyter Notebook to make more versatile analysis of data.
+
+- **Advanced Analytics Professional Certificate** 
+
+This certification has provided me with a solid foundation in the principles of data science, including the PACE (Plan, Analyze, Construct, Execute) workflow. It has equipped me with the necessary tools and guidance for performing exploratory data analysis and statistical analysis using Python in Jupyter Notebook.
+
+The course introduced Kaggle as a platform for engaging with a community of data analysts and scientists, allowing the sharing of projects, hobbies, and participation in machine learning competitions.
+
+Statistical analysis was a key component of the course, covering A/B testing, probability, types of data distributions, sampling methods, and confidence intervals.
+
+The next parts of the course covered introductions to Regression models and their assumptions. It was important to emphasize the ethical considerations when creating models and proper workflow. Understanding the business problem, and then identifying what kind of task the model will be doing comes first.
+
+The later parts of the course began with Feature Engineering, selecting and making new features, cleaning up the data, considering imbalances of the dataset and label encoding (Feature Selection,  Feature Transformation and Feature Extraction).
+
+Some of the models taught in this part were Regression Models, K-Means, Random Forests and XGBoost paired with Gridsearch to find the best parameters of the model.
+
+The final section emphasized model evaluation and the importance of iterative practices in planning, exploratory data analysis, and model development. It was important to split our data into training, validation, and test data(unseen data so we know how the model works in real world scenario). 
+
+You can find most of the applications of my learning through the capstones and the projects section of my website. 
+
+# Mapua University (2019 - 2023)
 
 I have my background as a recent information systems graduate, I have gained valuable experience in analyzing complex business problems, identifying gaps and requirements, and implementing solutions/recommendations through websites and data driven storyboards. Through these tools and methods, I have developed a strong foundation in problem-solving and analytical thinking.
 
@@ -17,7 +53,7 @@ I have my background as a recent information systems graduate, I have gained val
 - Design Thinking 
 - Process Chart Analysis (VA/NVMA/NVA Analysis)
  
-### Skills:
+### Skills learned:
 
 - HTML/CSS
 - Jekyll
