@@ -96,26 +96,6 @@ Screenshots of Pokedex List
 Screenshots of Pokedex Entry
 ![Image 5](https://i.ibb.co/FX6nJT6/Pokedex-2.png)
 
-### Data Science Project
-Our first Data Science Project utilized the videogamesale dataset from Kaggle and followed a step by step process of:
-
-- Data Gathering
-- Data Cleansing
-- Exploratory Data Analysis
-- Data Modeling 
-- Data Evaluation
-
-### Problem: "How can Game Companies maximize their sales?"
-
-This can be narrowed down into:
-- Which genre is the most successful per each region?
-- Which platform is the most successful per each region?
-- What are each of the companies’ top genres? 
-
-<object data="{{ site.url }}{{ site.baseurl }}/pdfs/dataScienceproject.pdf" width="600" height="600" type="application/pdf">
-</object>
-
-
 # ASEAN Data Explorers 2020 Finals Entry
 Used SAP Cloud Data Analystics to visualize data from cleaned datasets regarding:
 
